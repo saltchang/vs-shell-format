@@ -201,7 +201,7 @@
     "ts-loader": "8.0.4",
     "vscode": "1.1.37",
     "webpack": "4.44.1",
-    "webpack-cli": "3.3.12"
+    "webpack-cli": "4.5.0"
   },
   "dependencies": {
     "diff": "~4.0.0"
